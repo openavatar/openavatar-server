@@ -1,6 +1,6 @@
-# Privateparty
+# OpenAvatar Server-Side runing Privateparty instance
 
-> Privateparty server
+> Server-Side: Privateparty 
 
 Documentation: https://privateparty.dev
 
